@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunrk&label=Profile%20views&color=0e75b6&style=flat" alt="harunrk" /> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Computer vision**
 
 - 📫 How to reach me **harunresitkilic0@gmail.com**
 
