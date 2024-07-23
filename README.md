@@ -1,11 +1,6 @@
 <h1 align="center">Hi 🤖, I'm Harun</h1>
-<h3 align="center">I am EEE student in KTU and sharing my projects here.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunrk&label=Profile%20views&color=0e75b6&style=flat" alt="harunrk" /> </p>
-
-- 🌱 I’m currently learning **Computer vision**
-
-- 📫 How to reach me **harunresitkilic0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
