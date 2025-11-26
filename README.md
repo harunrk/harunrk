@@ -1,5 +1,9 @@
 <h1 align="center">Hi 🤖, I'm Harun</h1>
+<h3>I know my profile shows projects in multiple areas; web development, machine learning, deep learning, embedded software, computer vision…
+That's because I have explored each of these fields at different times and tried to build something in them. Currently, however, I am focused on robotics and computer vision.
 
+NOTE: I am open to job opportunities, as I have recently graduated.</h3>
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harunrk&label=Profile%20views&color=0e75b6&style=flat" alt="harunrk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
